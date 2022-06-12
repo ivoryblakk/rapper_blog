@@ -1,6 +1,5 @@
 .header{
     grid-area: header;
-    background-color: rgb(228, 231, 9);
     background-image:    url(../images/rapper_banner.webp);
     background-size:  100% 200px ;                   
     background-repeat:   no-repeat;
