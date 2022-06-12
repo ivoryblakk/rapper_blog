@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital@1&display=swap');
+
 .navbar{
     grid-area: nav;
     background-color: rgb(34, 34, 144);
@@ -11,4 +13,7 @@
     margin: 0;
     padding: 0;
     list-style: none;
+    color: white;
+    font-size:3vw;
+    font-family: 'Gelasio', serif;
 }
