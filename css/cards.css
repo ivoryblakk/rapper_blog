@@ -1,0 +1,4 @@
+.cards{
+    grid-area: cards;
+    background-color: rgb(9, 231, 187);
+}
